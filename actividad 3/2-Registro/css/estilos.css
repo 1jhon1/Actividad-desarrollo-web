@@ -1,0 +1,37 @@
+*{
+   font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+main{
+    text-align: center;
+   
+}
+h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    padding: 40px;
+}
+.confi{
+margin: 16px;
+padding-right: 67px;
+}
+.co{
+    margin: 16px;
+padding-left: 30px;
+}
+.tipo{
+    margin:20px ;
+    padding-right: 290px;
+    margin-top: 0px ;
+    position:fixed;
+    padding-left: 452px;
+    padding-bottom: 12px;
+}
+.cl{ 
+    padding-right: 160px;
+    margin-left: 73px;
+    
+}
