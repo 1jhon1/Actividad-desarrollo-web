@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+   
+
+    }
+     main{
+       margin-left: 500px;
+        margin-top: 90px;
+     }
+     h1{
+         text-align: center;
+         margin-top: 40px;
+        
+     }
+     .nombre{
+         margin-left: 35px;
+     }
+     .t{
+        margin-left: 32px;
+     }
+     .ciudad{
+        margin-left: 35px;
+    }
+     .tel{
+        margin-left: 35px;
+    }
+    .dir{
+        margin-left: 35px;
+    }
+    .desc{
+        margin-left: 35px;
+    }
+    .tipo{
+        margin-left: 33px;
+        margin-bottom: 20px;
+    }
+    .logo{
+        margin-left: 35px; 
+       
+        position: absolute;
+        
+    }
+    .ciu{
+        margin-left: 92px;  
+        margin-bottom: 20px;
+    }
+    .tele{
+        margin-left: 82px;  
+        margin-bottom: 20px;
+    }
+    .dirr{
+        margin-left: 78px;   
+        margin-bottom: 20px;
+    }
+    .descri{
+        margin-left: 60px; 
+        margin-bottom: 20px;
+        height: 40px;  
+    }
+    .nomb{
+        margin-bottom: 20px;
+    }
+    .archivo{
+        margin-left: 200px;
+       margin-bottom: 10px;
+      ;
+    }
+    .actualizar{
+      margin-left: -360px;
+       position:absolute;
+       margin-top: 50px;
+       height: 35px;
+       width: 360px;
+    }
+    
